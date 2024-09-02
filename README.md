@@ -17,9 +17,9 @@
     <td align='center' width="190">
         <img src="https://user-images.githubusercontent.com/61928905/124451275-12e87d00-dd3a-11eb-898a-7726dcc09197.png" height="100" width="100">
     </td>
-    <td align='center' width="190">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="100" width="100">
-    </td>
+   <td align='center' width="190">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" height="100" width="100">
+</td>
      <td align='center' width="190">
         <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" height="70" width="120">
     </td>
