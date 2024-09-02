@@ -54,7 +54,9 @@
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
-    
+    <td align='center'>
+        <img src="https://github.com/user-attachments/assets/3d9c6140-b555-443e-a19b-fffefabd8c48">
+    </td>
 </tr>
 
 </table>
