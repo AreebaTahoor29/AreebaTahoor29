@@ -65,11 +65,8 @@
 <p align="center">
 <a href="https://www.azeemaj101.ml/partials/Azeem-CV.pdf" target="_blank"><img src="https://img.shields.io/badge/-MY Resume-success?style=flat&logo=InfluxDB&logoColor=white"/></a>
 <a href="https://www.azeemaj101.ml/" target="_blank"><img src="https://img.shields.io/badge/-M.Azeem.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/azeemaj101/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Azeem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Azeemaj101@gmail.com"><img src="https://img.shields.io/badge/-Azeemaj101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/azeemaj101/" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/Azeemaj101" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://twitter.com/azeemaj101" target="_blank"><img src="https://img.shields.io/badge/-@azeemaj101-1924C0?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/areeba-tahoor/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Azeem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tahoorareeba@gmail.com"><img src="https://img.shields.io/badge/-Azeemaj101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
