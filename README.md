@@ -37,9 +37,6 @@
     <td align='center'>
         <img src="https://user-images.githubusercontent.com/61928905/124452385-3102ad00-dd3b-11eb-9bc1-6de14830d0b2.png" width="100" height="100">
     </td>
-     <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg" width="120" height="100">
-    </td>
    <td align='center'>
         <img src="https://user-images.githubusercontent.com/61928905/124466483-8e065f00-dd4b-11eb-98bb-40155450d148.png" width="100" height="100">
       </td>
@@ -48,17 +45,11 @@
     </td>
 </tr>
    <tr>
-       <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="150" height="70">
-    </td>
       <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="165" height="100">
     </td>
         <td align='center'>
         <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="125" height="110">
-    </td>
-    <td align='center'>
-        <img src="https://buttercms.com/static/images/tech_banners/Flask.png" >
     </td>
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
