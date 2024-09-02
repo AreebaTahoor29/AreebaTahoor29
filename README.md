@@ -82,7 +82,6 @@
 
 ## 🔎 Contribution Graph
 
-[![Azeem GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AreebaTahoor29&theme=react-dark)](https://github.com/AreebaTahoor29)
 [![Snake animation](https://github.com/AreebaTahoor29/AreebaTahoor29/blob/main/github-contribution-grid-snake.svg)](https://github.com/AreebaTahoor29)
 <!-- [![Snake animation](https://skyline.github.com/AreebaTahoor29/2021)](https://github.com/AreebaTahoor29) -->
 
