@@ -48,9 +48,7 @@
       <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="165" height="100">
     </td>
-     <td align='center'>
-    <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg" width="120" height="100">
-</td>
+   
     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
