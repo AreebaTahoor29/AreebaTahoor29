@@ -63,35 +63,35 @@
 
 ## 🤝🏻 &nbsp;Connect with 
 <p align="center">
-<!-- <a href="https://www.azeemaj101.ml/partials/Azeem-CV.pdf" target="_blank"><img src="https://img.shields.io/badge/-MY Resume-success?style=flat&logo=InfluxDB&logoColor=white"/></a>
-<a href="https://www.azeemaj101.ml/" target="_blank"><img src="https://img.shields.io/badge/-M.Azeem.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://www.linkedin.com/in/areeba-tahoor/" target="_blank"><img src="https://img.shields.io/badge/-Muhammad%20Azeem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:tahoorareeba@gmail.com"><img src="https://img.shields.io/badge/-Azeemaj101@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="https://www.AreebaTahoor29.ml/partials/Azeem-CV.pdf" target="_blank"><img src="https://img.shields.io/badge/-MY Resume-success?style=flat&logo=InfluxDB&logoColor=white"/></a>
+<a href="https://www.AreebaTahoor29.ml/" target="_blank"><img src="https://img.shields.io/badge/-M.Azeem.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.linkedin.com/in/areeba-tahoor/" target="_blank"><img src="https://img.shields.io/badge/-Areeba%20Tahoor-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tahoorareeba29@gmail.com"><img src="https://img.shields.io/badge/tahoorareeba29@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
 <br/>
 <br/>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=azeemaj101" alt="M.Azeem" />
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/azeemaj101">
+    <img src="https://komarev.com/ghpvc/?username=AreebaTahoor29" alt="Areeba Tahoor" />
+    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/AreebaTahoor29">
 </p>
 
 ## 🏆 Achievements
-<p align="center"> <a href="https://azeemaj101.herokuapp.com/"><img src="https://github-profile-trophy.vercel.app/?username=azeemaj101" target="_blank" alt="azeemaj101" /></a> </p>
+<p align="center"> <a href="https://AreebaTahoor29.herokuapp.com/"><img src="https://github-profile-trophy.vercel.app/?username=AreebaTahoor29" target="_blank" alt="AreebaTahoor29" /></a> </p>
 
 ## 🔎 Contribution Graph
 
-[![Azeem GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=azeemaj101&theme=react-dark)](https://github.com/azeemaj101)
-[![Snake animation](https://github.com/Azeemaj101/Azeemaj101/blob/main/github-contribution-grid-snake.svg)](https://github.com/azeemaj101)
-<!-- [![Snake animation](https://skyline.github.com/Azeemaj101/2021)](https://github.com/azeemaj101) -->
+[![Azeem GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AreebaTahoor29&theme=react-dark)](https://github.com/AreebaTahoor29)
+[![Snake animation](https://github.com/AreebaTahoor29/AreebaTahoor29/blob/main/github-contribution-grid-snake.svg)](https://github.com/AreebaTahoor29)
+<!-- [![Snake animation](https://skyline.github.com/AreebaTahoor29/2021)](https://github.com/AreebaTahoor29) -->
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
-<a href="https://github.com/azeemaj101">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azeemaj101&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azeemaj101&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/AreebaTahoor29">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AreebaTahoor29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AreebaTahoor29&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=azeemaj101&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AreebaTahoor29&show_icons=true&locale=en&layout=demo&theme=algolia&hide_border=true" />
 </p>
