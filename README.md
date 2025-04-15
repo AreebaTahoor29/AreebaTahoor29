@@ -3,7 +3,7 @@
 ## I'm a Developer!  
 - 🔭 I’m currently working as a Full Stack Developer.
 - 🌱 I’m currently learning Competitive-coding, Angular, Asp.Net, Database Development
-- 🥅 2024 Goals: Focus on API development
+- 🥅 2025 Goals: Focus on building my own business
       
 <br/>
 
